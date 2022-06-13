@@ -1,2 +1,4 @@
 Gitの練習するぞ
 基本的なワークフローを学びます
+*gitadd
+*gitcommit
